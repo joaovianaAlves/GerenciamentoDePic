@@ -1,0 +1,15 @@
+C:\Users\joaoalves\Pic2024\obj\Debug\net7.0\Pic2024.csproj.AssemblyReference.cache
+C:\Users\joaoalves\Pic2024\obj\Debug\net7.0\Pic2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoalves\Pic2024\obj\Debug\net7.0\Pic2024.AssemblyInfoInputs.cache
+C:\Users\joaoalves\Pic2024\obj\Debug\net7.0\Pic2024.AssemblyInfo.cs
+C:\Users\joaoalves\Pic2024\obj\Debug\net7.0\Pic2024.csproj.CoreCompileInputs.cache
+C:\Users\joaoalves\Pic2024\bin\Debug\net7.0\Pic2024.exe
+C:\Users\joaoalves\Pic2024\bin\Debug\net7.0\Pic2024.deps.json
+C:\Users\joaoalves\Pic2024\bin\Debug\net7.0\Pic2024.runtimeconfig.json
+C:\Users\joaoalves\Pic2024\bin\Debug\net7.0\Pic2024.dll
+C:\Users\joaoalves\Pic2024\bin\Debug\net7.0\Pic2024.pdb
+C:\Users\joaoalves\Pic2024\obj\Debug\net7.0\Pic2024.dll
+C:\Users\joaoalves\Pic2024\obj\Debug\net7.0\refint\Pic2024.dll
+C:\Users\joaoalves\Pic2024\obj\Debug\net7.0\Pic2024.pdb
+C:\Users\joaoalves\Pic2024\obj\Debug\net7.0\Pic2024.genruntimeconfig.cache
+C:\Users\joaoalves\Pic2024\obj\Debug\net7.0\ref\Pic2024.dll
